@@ -1,6 +1,6 @@
 ![SkipList](https://github.com/BinaryzzOrg/SkipList/assets/54339540/13b59b27-5531-49cb-8e77-f6b6da8e0eb5)
 
-## UnionFind - a data structure that allows for efficient search, insertion and deletion of elements in a sorted list.
+## SkipList - a data structure that allows for efficient search, insertion and deletion of elements in a sorted list.
 
 # Instructions
 ###### Case Problem:
